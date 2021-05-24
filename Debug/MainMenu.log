@@ -1,0 +1,51 @@
+﻿  Menu.cpp
+C:\Users\future\source\repos\MainMenu\Menu.cpp(17,84): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\future\source\repos\MainMenu\Menu.cpp(17,84): warning C4244:         with
+C:\Users\future\source\repos\MainMenu\Menu.cpp(17,84): warning C4244:         [
+C:\Users\future\source\repos\MainMenu\Menu.cpp(17,84): warning C4244:             T=float
+C:\Users\future\source\repos\MainMenu\Menu.cpp(17,84): warning C4244:         ]
+C:\Users\future\source\repos\MainMenu\Menu.cpp(17,42): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\future\source\repos\MainMenu\Menu.cpp(17,42): warning C4244:         with
+C:\Users\future\source\repos\MainMenu\Menu.cpp(17,42): warning C4244:         [
+C:\Users\future\source\repos\MainMenu\Menu.cpp(17,42): warning C4244:             T=float
+C:\Users\future\source\repos\MainMenu\Menu.cpp(17,42): warning C4244:         ]
+C:\Users\future\source\repos\MainMenu\Menu.cpp(22,42): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\future\source\repos\MainMenu\Menu.cpp(22,42): warning C4244:         with
+C:\Users\future\source\repos\MainMenu\Menu.cpp(22,42): warning C4244:         [
+C:\Users\future\source\repos\MainMenu\Menu.cpp(22,42): warning C4244:             T=float
+C:\Users\future\source\repos\MainMenu\Menu.cpp(22,42): warning C4244:         ]
+C:\Users\future\source\repos\MainMenu\Menu.cpp(27,85): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\future\source\repos\MainMenu\Menu.cpp(27,85): warning C4244:         with
+C:\Users\future\source\repos\MainMenu\Menu.cpp(27,85): warning C4244:         [
+C:\Users\future\source\repos\MainMenu\Menu.cpp(27,85): warning C4244:             T=float
+C:\Users\future\source\repos\MainMenu\Menu.cpp(27,85): warning C4244:         ]
+C:\Users\future\source\repos\MainMenu\Menu.cpp(27,42): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\future\source\repos\MainMenu\Menu.cpp(27,42): warning C4244:         with
+C:\Users\future\source\repos\MainMenu\Menu.cpp(27,42): warning C4244:         [
+C:\Users\future\source\repos\MainMenu\Menu.cpp(27,42): warning C4244:             T=float
+C:\Users\future\source\repos\MainMenu\Menu.cpp(27,42): warning C4244:         ]
+C:\Users\future\source\repos\MainMenu\Menu.cpp(32,42): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\future\source\repos\MainMenu\Menu.cpp(32,42): warning C4244:         with
+C:\Users\future\source\repos\MainMenu\Menu.cpp(32,42): warning C4244:         [
+C:\Users\future\source\repos\MainMenu\Menu.cpp(32,42): warning C4244:             T=float
+C:\Users\future\source\repos\MainMenu\Menu.cpp(32,42): warning C4244:         ]
+C:\Users\future\source\repos\MainMenu\Menu.cpp(37,85): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\future\source\repos\MainMenu\Menu.cpp(37,85): warning C4244:         with
+C:\Users\future\source\repos\MainMenu\Menu.cpp(37,85): warning C4244:         [
+C:\Users\future\source\repos\MainMenu\Menu.cpp(37,85): warning C4244:             T=float
+C:\Users\future\source\repos\MainMenu\Menu.cpp(37,85): warning C4244:         ]
+C:\Users\future\source\repos\MainMenu\Menu.cpp(37,42): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\future\source\repos\MainMenu\Menu.cpp(37,42): warning C4244:         with
+C:\Users\future\source\repos\MainMenu\Menu.cpp(37,42): warning C4244:         [
+C:\Users\future\source\repos\MainMenu\Menu.cpp(37,42): warning C4244:             T=float
+C:\Users\future\source\repos\MainMenu\Menu.cpp(37,42): warning C4244:         ]
+C:\Users\future\source\repos\MainMenu\Menu.cpp(42,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\future\source\repos\MainMenu\Menu.cpp(46,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\future\source\repos\MainMenu\Menu.cpp(46,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\future\source\repos\MainMenu\Menu.cpp(50,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\future\source\repos\MainMenu\Menu.cpp(50,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\future\source\repos\MainMenu\Menu.cpp(54,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\future\source\repos\MainMenu\Menu.cpp(54,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\future\source\repos\MainMenu\Menu.cpp(58,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\future\source\repos\MainMenu\Menu.cpp(58,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  MainMenu.vcxproj -> C:\Users\future\source\repos\MainMenu\Debug\MainMenu.exe
